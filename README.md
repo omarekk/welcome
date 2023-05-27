@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omer.
 - 👀 I’m interested in AI and Computer Networks.
-- 🌱 I’m currently learning Python, Networking.
+- 🌱 I’m currently learning Python, Ansible, & Networking.
 - 💞️ I’m looking to collaborate on a project I am starting feel free to give me positive feedback and critique my code. 
 - 📫 How to reach me: message me directly. 
 
